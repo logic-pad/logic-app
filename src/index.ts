@@ -8,5 +8,5 @@ const webview = new Webview(false, {
 });
 
 webview.title = 'Logic Pad';
-webview.navigate('https://logic-pad.vercel.app/');
+webview.navigate('https://logic-pad.com/');
 webview.run();
